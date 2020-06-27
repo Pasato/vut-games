@@ -1,4 +1,4 @@
-# 2048_or_so
+# vut-games
 
 ## Project setup
 ```
